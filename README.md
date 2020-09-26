@@ -1,0 +1,3 @@
+# LinearRegressionDemo
+I am trying to make a admission prediction model based on some parameters submitted by the students such as GRE Score,TOEFL Score, CGPA etc...
+This is just a demo 
